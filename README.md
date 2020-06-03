@@ -1,17 +1,17 @@
 # _colors_
 
-#### _This program will display clickable paragraphs that will respond to user clicks to display and hide an image of a walrus.
+#### _This program will display text and allow the user to click one of three buttons to change the background color of the page.
 
 #### By _**David Cole**_
 
 ## Description
 
-_This project has been designed using HTML, CSS, and Bootstrap v3.3.7, and JQuery. It demonstrates simple effects with JQuery and allows the user to interact with paragraph elements to toggle between hiding and showing an image. The project also includes simple CSS styling._
+_This project has been designed using HTML, CSS, and Bootstrap v3.3.7, and JQuery. It demonstrates simple effects with JQuery and allows the user to interact with buttons to change the background color of the webpage. The project also includes simple CSS styling._
 
 ## Setup/Installation Requirements
 
-* _In your web browser, navigate to [dcole505 peek-a-boo repository](https://github.com/dcole505/peek-a-boo)_
-* _In terminal, type '$ git clone https://github.com/dcole505/peek-a-boo.git' To clone the project from GitHub onto your local machine_
+* _In your web browser, navigate to [dcole505 colors repository](https://github.com/dcole505/colors.git)_
+* _In terminal, type '$ git clone https://github.com/dcole505/colors.git' To clone the project from GitHub onto your local machine_
 * _Navigate to the file folder that contains the GitHub repository you've cloned._
 * _Right click on the .HTML file and open it in your web browser to view_
 * _or_
